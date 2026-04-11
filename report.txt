@@ -1,0 +1,266 @@
+Info: Processing symbol 'U1:WS:MODULE_ESP32_DEVKIT_V1'.
+Info: Processing symbol 'U3:WS:OLED'.
+Info: Processing symbol 'U7:WS:Neo 6-M'.
+Info: Processing symbol 'U6:WS:2pin Header_SP'.
+Info: Processing symbol 'U4:WS:LM2596'.
+Info: Processing symbol 'U2:WS:ESP32-CAM'.
+Info: Processing symbol 'U5:WS:2pin Header_SP'.
+Info: Processing symbol 'U8:WS:TB6612'.
+Info: Processing symbol 'U10:WS:XT30_Motora'.
+Info: Processing symbol 'U11:WS:XT30_Motora'.
+Info: Processing symbol 'U13:WS:3pin Header_IR'.
+Info: Processing symbol 'U14:WS:TP4056'.
+Info: Processing symbol 'U15:WS:3pin Header_IR'.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'P1.kicad_sch'.
+Add net unconnected-(U1-VP-Pad17).
+Connected U1 pin 17 to unconnected-(U1-VP-Pad17).
+Add net /IR2.
+Connected U1 pin 21 to /IR2.
+Add net unconnected-(U1-RX0-Pad12).
+Connected U1 pin 12 to unconnected-(U1-RX0-Pad12).
+Add net /G_RX.
+Connected U1 pin 24 to /G_RX.
+Add net /O_SCL.
+Connected U1 pin 20 to /O_SCL.
+Add net /IR1.
+Connected U1 pin 19 to /IR1.
+Add net GND.
+Connected U1 pin 29 to GND.
+Add net unconnected-(U1-D2-Pad4).
+Connected U1 pin 4 to unconnected-(U1-D2-Pad4).
+Add net unconnected-(U1-3V3-Pad1).
+Connected U1 pin 1 to unconnected-(U1-3V3-Pad1).
+Add net /M1_P.
+Connected U1 pin 14 to /M1_P.
+Add net /G_TX.
+Connected U1 pin 23 to /G_TX.
+Add net unconnected-(U1-D19-Pad10).
+Connected U1 pin 10 to unconnected-(U1-D19-Pad10).
+Add net unconnected-(U1-TX2-Pad7).
+Connected U1 pin 7 to unconnected-(U1-TX2-Pad7).
+Add net unconnected-(U1-EN-Pad16).
+Connected U1 pin 16 to unconnected-(U1-EN-Pad16).
+Add net /C_TX.
+Connected U1 pin 25 to /C_TX.
+Connected U1 pin 2 to GND.
+Add net unconnected-(U1-TX0-Pad13).
+Connected U1 pin 13 to unconnected-(U1-TX0-Pad13).
+Add net /C_RX.
+Connected U1 pin 27 to /C_RX.
+Add net /M1_D+.
+Connected U1 pin 15 to /M1_D+.
+Add net /M1_D-.
+Connected U1 pin 22 to /M1_D-.
+Add net unconnected-(U1-D5-Pad8).
+Connected U1 pin 8 to unconnected-(U1-D5-Pad8).
+Add net /5V_O.
+Connected U1 pin 30 to /5V_O.
+Add net /M2_P.
+Connected U1 pin 28 to /M2_P.
+Add net unconnected-(U1-RX2-Pad6).
+Connected U1 pin 6 to unconnected-(U1-RX2-Pad6).
+Add net /M2_D-.
+Connected U1 pin 3 to /M2_D-.
+Add net /M2_D+.
+Connected U1 pin 26 to /M2_D+.
+Add net /O_SDA.
+Connected U1 pin 11 to /O_SDA.
+Add net unconnected-(U1-VN-Pad18).
+Connected U1 pin 18 to unconnected-(U1-VN-Pad18).
+Add net unconnected-(U1-D18-Pad9).
+Connected U1 pin 9 to unconnected-(U1-D18-Pad9).
+Add net /C_Tri.
+Connected U1 pin 5 to /C_Tri.
+Updated U1 unit metadata.
+Added U2 (footprint 'WS:ESP32-CAM').
+Changed REF** reference designator to U2.
+Updated U2 symbol association from  to /36f49e59-f4c6-401a-806e-be13e93c647f.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'P1.kicad_sch'.
+Connected U2 pin P$13 to GND.
+Add net unconnected-(U2-3V3-PadP$16).
+Connected U2 pin P$16 to unconnected-(U2-3V3-PadP$16).
+Add net unconnected-(U2-IO4-PadP$8).
+Connected U2 pin P$8 to unconnected-(U2-IO4-PadP$8).
+Connected U2 pin P$2 to GND.
+Add net unconnected-(U2-IO13-PadP$4).
+Connected U2 pin P$4 to unconnected-(U2-IO13-PadP$4).
+Add net unconnected-(U2-IO14-PadP$6).
+Connected U2 pin P$6 to unconnected-(U2-IO14-PadP$6).
+Add net unconnected-(U2-IO16-PadP$15).
+Connected U2 pin P$15 to unconnected-(U2-IO16-PadP$15).
+Add net unconnected-(U2-IO2-PadP$7).
+Connected U2 pin P$7 to unconnected-(U2-IO2-PadP$7).
+Connected U2 pin P$14 to /C_Tri.
+Connected U2 pin P$10 to /C_RX.
+Add net unconnected-(U2-IO12-PadP$3).
+Connected U2 pin P$3 to unconnected-(U2-IO12-PadP$3).
+Add net unconnected-(U2-3V3.-PadP$12).
+Connected U2 pin P$12 to unconnected-(U2-3V3.-PadP$12).
+Add net unconnected-(U2-IO15-PadP$5).
+Connected U2 pin P$5 to unconnected-(U2-IO15-PadP$5).
+Connected U2 pin P$11 to /C_TX.
+Connected U2 pin P$1 to /5V_O.
+Connected U2 pin P$9 to GND.
+Updated U2 unit metadata.
+Added U3 (footprint 'WS:OLED').
+Changed REF** reference designator to U3.
+Changed U3 value from OLED to DM-OLED096-636.
+Updated U3 symbol association from  to /b88a597d-aaec-42e5-961e-828816357405.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'P1.kicad_sch'.
+Connected U3 pin 2 to /5V_O.
+Connected U3 pin 3 to /O_SCL.
+Connected U3 pin 4 to /O_SDA.
+Connected U3 pin 1 to GND.
+Updated U3 unit metadata.
+Added U4 (footprint 'WS:LM2596').
+Changed REF** reference designator to U4.
+Changed U4 value from LM2596 to 3P Header.
+Updated U4 symbol association from  to /4dcf60d6-0c6b-4064-a0db-7924af958ee9.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'P1.kicad_sch'.
+Add net /B_O.
+Connected U4 pin 1 to /B_O.
+Connected U4 pin 3 to /5V_O.
+Connected U4 pin 4 to GND.
+Connected U4 pin 2 to GND.
+Updated U4 unit metadata.
+Added U5 (footprint 'WS:2pin Header_SP').
+Changed REF** reference designator to U5.
+Changed U5 value from 2pin Header_SP to 3P Header.
+Updated U5 symbol association from  to /981dfb10-906b-455a-bf38-e0743756e64b.
+Updated U5 fields.
+Updated U5 sheetname to '/'.
+Updated U5 sheetfile to 'P1.kicad_sch'.
+Connected U5 pin 1 to /B_O.
+Connected U5 pin 2 to GND.
+Updated U5 unit metadata.
+Added U6 (footprint 'WS:2pin Header_SP').
+Changed REF** reference designator to U6.
+Changed U6 value from 2pin Header_SP to 3P Header.
+Updated U6 symbol association from  to /23acaf49-3876-40cb-b0c8-8b809857608e.
+Updated U6 fields.
+Updated U6 sheetname to '/'.
+Updated U6 sheetfile to 'P1.kicad_sch'.
+Connected U6 pin 2 to GND.
+Add net /S_O.
+Connected U6 pin 1 to /S_O.
+Updated U6 unit metadata.
+Added U7 (footprint 'WS:Neo 6-M').
+Changed REF** reference designator to U7.
+Changed U7 value from Neo 6-M to 3P Header.
+Updated U7 symbol association from  to /6f362755-9929-4140-adef-404f7a9fba04.
+Updated U7 fields.
+Updated U7 sheetname to '/'.
+Updated U7 sheetfile to 'P1.kicad_sch'.
+Connected U7 pin 2 to /G_RX.
+Connected U7 pin 4 to GND.
+Connected U7 pin 1 to /5V_O.
+Connected U7 pin 3 to /G_TX.
+Updated U7 unit metadata.
+Added U8 (footprint 'WS:TB6612').
+Changed REF** reference designator to U8.
+Updated U8 symbol association from  to /19607081-73a7-42b4-bd64-30051852a60f.
+Updated U8 fields.
+Updated U8 sheetname to '/'.
+Updated U8 sheetfile to 'P1.kicad_sch'.
+Connected U8 pin 2 to /B_O.
+Connected U8 pin 14 to /M1_D+.
+Add net unconnected-(U8-STBY-Pad13).
+Connected U8 pin 13 to unconnected-(U8-STBY-Pad13).
+Add net unconnected-(U8-VM-Pad1).
+Connected U8 pin 1 to unconnected-(U8-VM-Pad1).
+Add net /M1-.
+Connected U8 pin 5 to /M1-.
+Connected U8 pin 10 to /M2_P.
+Connected U8 pin 12 to /M2_D+.
+Add net /M2-.
+Connected U8 pin 6 to /M2-.
+Connected U8 pin 8 to GND.
+Connected U8 pin 3 to GND.
+Add net /M1+.
+Connected U8 pin 4 to /M1+.
+Connected U8 pin 11 to /M2_D-.
+Add net /M2+.
+Connected U8 pin 7 to /M2+.
+Connected U8 pin 16 to /M1_P.
+Connected U8 pin 9 to GND.
+Connected U8 pin 15 to /M1_D-.
+Updated U8 unit metadata.
+Added U1 (footprint 'WS:MODULE_ESP32_DEVKIT_V1').
+Added U10 (footprint 'WS:XT30_Motora').
+Changed REF** reference designator to U10.
+Changed U10 value from XT30_Motora to 3P Header.
+Updated U10 symbol association from  to /c3e3a3fd-ee65-4cc0-bc23-51608d2e1614.
+Updated U10 fields.
+Updated U10 sheetname to '/'.
+Updated U10 sheetfile to 'P1.kicad_sch'.
+Connected U10 pin 2 to /M2-.
+Connected U10 pin 1 to /M2+.
+Updated U10 unit metadata.
+Changed REF** reference designator to U1.
+Added U11 (footprint 'WS:XT30_Motora').
+Changed REF** reference designator to U11.
+Changed U11 value from XT30_Motora to 3P Header.
+Updated U11 symbol association from  to /ded0f7c7-6afa-4754-b20e-3b49a9d9182d.
+Updated U11 fields.
+Updated U11 sheetname to '/'.
+Updated U11 sheetfile to 'P1.kicad_sch'.
+Connected U11 pin 2 to /M1-.
+Connected U11 pin 1 to /M1+.
+Updated U11 unit metadata.
+Changed U1 value from MODULE_ESP32_DEVKIT_V1 to ESP32-DEVKIT-V1.
+Added U13 (footprint 'WS:3pin Header_IR').
+Changed REF** reference designator to U13.
+Changed U13 value from 3pin Header_IR to 3P Header.
+Updated U13 symbol association from  to /876559cd-16a8-4cfc-b7bd-fcbb5ccdd7af.
+Updated U13 fields.
+Updated U13 sheetname to '/'.
+Updated U13 sheetfile to 'P1.kicad_sch'.
+Connected U13 pin 2 to GND.
+Connected U13 pin 3 to /IR2.
+Connected U13 pin 1 to /5V_O.
+Updated U13 unit metadata.
+Updated U1 symbol association from  to /b049bb50-f24f-4475-87f6-7272c048e83c.
+Added U14 (footprint 'WS:TP4056').
+Changed REF** reference designator to U14.
+Changed U14 value from TP4056 to 3P Header.
+Updated U14 symbol association from  to /e55d3ff0-59d8-4e73-8f40-83c57fb0b697.
+Updated U14 fields.
+Updated U14 sheetname to '/'.
+Updated U14 sheetfile to 'P1.kicad_sch'.
+Connected U14 pin 1 to /S_O.
+Add net /O-.
+Connected U14 pin 3 to /O-.
+Connected U14 pin 2 to GND.
+Add net /B+.
+Connected U14 pin 5 to /B+.
+Add net /B-.
+Connected U14 pin 4 to /B-.
+Add net /O+.
+Connected U14 pin 6 to /O+.
+Updated U14 unit metadata.
+Updated U1 fields.
+Added U15 (footprint 'WS:3pin Header_IR').
+Changed REF** reference designator to U15.
+Changed U15 value from 3pin Header_IR to 3P Header.
+Updated U15 symbol association from  to /3ca8add3-c3c4-4ee8-b05a-c11e10815ac9.
+Updated U15 fields.
+Updated U15 sheetname to '/'.
+Updated U15 sheetfile to 'P1.kicad_sch'.
+Connected U15 pin 3 to /IR1.
+Connected U15 pin 2 to GND.
+Connected U15 pin 1 to /5V_O.
+Updated U15 unit metadata.
+Warning: No net found for component U3 pad S2 (no pin S2 in symbol).
+Warning: No net found for component U3 pad S3 (no pin S3 in symbol).
+Warning: No net found for component U3 pad S4 (no pin S4 in symbol).
+Warning: No net found for component U3 pad S1 (no pin S1 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
