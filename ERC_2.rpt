@@ -1,0 +1,1070 @@
+ERC report (2026-04-11T12:58:51+0530, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 19722 mils): Symbol #PWR91 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 19722 mils): Symbol #PWR91 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 19922 mils): Symbol U6 Pin 3 [TX, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 19722 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 19822 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 19922 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 20022 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(35433 mils, 19385 mils): Symbol #PWR60 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35433 mils, 19535 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35433 mils, 19385 mils): Symbol #PWR60 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(35433 mils, 19685 mils): Symbol C10 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(35433 mils, 19985 mils): Symbol #PWR80 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35433 mils, 19835 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35433 mils, 19985 mils): Symbol #PWR80 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35433 mils, 19835 mils): Symbol C10 Pin 2 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(34583 mils, 6537 mils): Symbol #PWR33 [GND]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(34583 mils, 6437 mils): Symbol #PWR32 [+5V]
+[lib_symbol_mismatch]: Symbol '+12V' doesn't match copy in library 'power'
+    ; warning
+    @(34583 mils, 6337 mils): Symbol #PWR31 [+12V]
+[lib_symbol_mismatch]: Symbol '+12V' doesn't match copy in library 'power'
+    ; warning
+    @(37008 mils, 5606 mils): Symbol #PWR57 [+12V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37008 mils, 5606 mils): Symbol #PWR57 Pin 1 [+12V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37008 mils, 5756 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37008 mils, 5756 mils): Symbol C7 Pin 1 [Passive, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(41339 mils, 3937 mils): Symbol J2 [Conn_2Pin]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 3887 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 3987 mils): Symbol J2 Pin 2 [Pin_2, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 3987 mils): Horizontal Wire, length 400 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(41339 mils, 11024 mils): Symbol J4 [Conn_2Pin]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 10974 mils): Horizontal Wire, length 400 mils
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(37008 mils, 5906 mils): Symbol C7 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(37008 mils, 6206 mils): Symbol #PWR77 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37008 mils, 6056 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37008 mils, 6206 mils): Symbol #PWR77 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+12V' doesn't match copy in library 'power'
+    ; warning
+    @(40689 mils, 3887 mils): Symbol #PWR40 [+12V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(40689 mils, 3987 mils): Symbol #PWR41 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(40689 mils, 3887 mils): Symbol #PWR40 Pin 1 [+12V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(40689 mils, 3987 mils): Symbol #PWR41 Pin 1 [GND, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(41339 mils, 7874 mils): Symbol J3 [Conn_2Pin]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 7824 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 7924 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 7924 mils): Symbol J3 Pin 2 [Pin_2, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 11074 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(41089 mils, 10974 mils): Symbol J4 Pin 1 [Pin_1, Passive, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(36220 mils, 5606 mils): Symbol #PWR56 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(36220 mils, 5606 mils): Symbol #PWR56 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(36220 mils, 5756 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(36220 mils, 5756 mils): Symbol C6 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6437 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6537 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6637 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6337 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6337 mils): Symbol U5 Pin 1 [VM, Passive, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(35433 mils, 7087 mils): Symbol U5 [TB6612_Module]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6737 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6837 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 6937 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(36220 mils, 5906 mils): Symbol C6 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(36220 mils, 6206 mils): Symbol #PWR76 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(36220 mils, 6056 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(36220 mils, 6206 mils): Symbol #PWR76 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34583 mils, 6437 mils): Symbol #PWR32 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34583 mils, 6537 mils): Symbol #PWR33 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34583 mils, 6337 mils): Symbol #PWR31 Pin 1 [+12V, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(34646 mils, 20472 mils): Symbol U6 [ESP32_CAM]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 19822 mils): Symbol #PWR92 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 19822 mils): Symbol #PWR92 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 21022 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 21122 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 20922 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 20922 mils): Symbol #PWR93 [GND]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 21022 mils): Symbol #PWR94 [+3V3]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 21122 mils): Symbol #PWR95 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 20922 mils): Symbol #PWR93 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 21022 mils): Symbol #PWR94 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 21122 mils): Symbol #PWR95 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(34583 mils, 7837 mils): Symbol #PWR35 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34583 mils, 7737 mils): Symbol #PWR34 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34583 mils, 7837 mils): Symbol #PWR35 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7337 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7237 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7137 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7037 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(34583 mils, 7737 mils): Symbol #PWR34 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7437 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7537 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7637 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7737 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(35183 mils, 7837 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 6487 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(23819 mils, 5212 mils): Symbol #PWR24 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23819 mils, 5212 mils): Symbol #PWR24 Pin 1 [+3V3, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(23819 mils, 5512 mils): Symbol R1 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23819 mils, 5362 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23819 mils, 5662 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23819 mils, 5362 mils): Symbol R1 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(24409 mils, 5512 mils): Symbol R2 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(24409 mils, 5362 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(24409 mils, 5662 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(24409 mils, 5662 mils): Symbol R2 Pin 2 [Passive, Line]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(24409 mils, 5212 mils): Symbol #PWR25 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(24409 mils, 5212 mils): Symbol #PWR25 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 6637 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 6787 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 6937 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 7087 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7237 mils): Symbol U1 Pin 7 [D33, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 8137 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(20079 mils, 8755 mils): Symbol #PWR54 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20079 mils, 8755 mils): Symbol #PWR54 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20079 mils, 8905 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20079 mils, 8905 mils): Symbol C4 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(20866 mils, 9055 mils): Symbol C5 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(20866 mils, 9355 mils): Symbol #PWR75 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20866 mils, 8905 mils): Symbol C5 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20866 mils, 9205 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20866 mils, 9355 mils): Symbol #PWR75 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(20079 mils, 9055 mils): Symbol C4 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(20079 mils, 9355 mils): Symbol #PWR74 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20079 mils, 9205 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20079 mils, 9355 mils): Symbol #PWR74 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 7237 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 7537 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22454 mils, 7687 mils): Horizontal Wire, length 600 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(21654 mils, 7087 mils): Symbol U1 [ESP32_DEVKITV1]
+[footprint_link_issues]: The current configuration does not include the footprint library 'esp32devkitv1'.
+    ; warning
+    @(21654 mils, 7087 mils): Symbol U1 [ESP32_DEVKITV1]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 6787 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7687 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7837 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7987 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 6937 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7087 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7387 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7237 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20904 mils, 7537 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(19488 mils, 6299 mils): Symbol R3 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19488 mils, 6449 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19488 mils, 6149 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19488 mils, 6149 mils): Symbol R3 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(19488 mils, 5999 mils): Symbol #PWR26 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19488 mils, 5999 mils): Symbol #PWR26 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(21554 mils, 8837 mils): Symbol #PWR21 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21554 mils, 8837 mils): Symbol #PWR21 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21804 mils, 8837 mils): Symbol #PWR22 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21354 mils, 8537 mils): Vertical Wire, length 300 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21804 mils, 8537 mils): Vertical Wire, length 300 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21554 mils, 8537 mils): Vertical Wire, length 300 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22004 mils, 8537 mils): Vertical Wire, length 300 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(21354 mils, 8837 mils): Symbol #PWR20 [GND]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(20866 mils, 8755 mils): Symbol #PWR55 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20866 mils, 8905 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21354 mils, 8837 mils): Symbol #PWR20 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20866 mils, 8755 mils): Symbol #PWR55 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(21804 mils, 8837 mils): Symbol #PWR22 [+3V3]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(22004 mils, 8837 mils): Symbol #PWR23 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22004 mils, 8837 mils): Symbol #PWR23 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(20276 mils, 20172 mils): Symbol #PWR58 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20276 mils, 20172 mils): Symbol #PWR58 Pin 1 [+3V3, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(18835 mils, 20322 mils): Symbol #PWR43 [GND]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(18835 mils, 20422 mils): Symbol #PWR44 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18835 mils, 20322 mils): Symbol #PWR43 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18835 mils, 20422 mils): Symbol #PWR44 Pin 1 [+3V3, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(20276 mils, 20772 mils): Symbol #PWR78 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20276 mils, 20772 mils): Symbol #PWR78 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20276 mils, 20622 mils): Vertical Wire, length 150 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(19685 mils, 20472 mils): Symbol J5 [OLED_I2C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19435 mils, 20322 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19435 mils, 20422 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19435 mils, 20522 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19435 mils, 20622 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(19435 mils, 20322 mils): Symbol J5 Pin 1 [GND, Passive, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(20276 mils, 20472 mils): Symbol C8 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20276 mils, 20322 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(20276 mils, 20322 mils): Symbol C8 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(22872 mils, 29428 mils): Symbol #PWR100 [+5V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(22872 mils, 29528 mils): Symbol #PWR101 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22872 mils, 29428 mils): Symbol #PWR100 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(22872 mils, 29528 mils): Symbol #PWR101 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(18148 mils, 29428 mils): Symbol #PWR98 [+5V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(18148 mils, 29528 mils): Symbol #PWR99 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18148 mils, 29428 mils): Symbol #PWR98 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18148 mils, 29528 mils): Symbol #PWR99 Pin 1 [GND, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(18898 mils, 29528 mils): Symbol J7 [IR_Sensor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18648 mils, 29428 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18648 mils, 29528 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18648 mils, 29628 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(18648 mils, 29628 mils): Symbol J7 Pin 3 [OUT, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(34396 mils, 21222 mils): Horizontal Wire, length 600 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(37795 mils, 29528 mils): Symbol J11 [IR_Sensor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37545 mils, 29428 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37545 mils, 29628 mils): Symbol J11 Pin 3 [OUT, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37545 mils, 29628 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37545 mils, 29528 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(33796 mils, 21222 mils): Symbol #PWR96 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(33796 mils, 21222 mils): Symbol #PWR96 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(32321 mils, 29528 mils): Symbol #PWR105 [GND]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(32321 mils, 29428 mils): Symbol #PWR104 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32321 mils, 29528 mils): Symbol #PWR105 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32321 mils, 29428 mils): Symbol #PWR104 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(37045 mils, 29428 mils): Symbol #PWR106 [+5V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(37045 mils, 29528 mils): Symbol #PWR107 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37045 mils, 29428 mils): Symbol #PWR106 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(37045 mils, 29528 mils): Symbol #PWR107 Pin 1 [GND, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(33071 mils, 29528 mils): Symbol J10 [IR_Sensor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32821 mils, 29428 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32821 mils, 29428 mils): Symbol J10 Pin 1 [VCC, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32821 mils, 29528 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(32821 mils, 29628 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(25922 mils, 20222 mils): Symbol #PWR46 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(25922 mils, 20222 mils): Symbol #PWR46 Pin 1 [+3V3, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(26772 mils, 20472 mils): Symbol J6 [NEO6M_GPS]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(27362 mils, 20772 mils): Symbol #PWR79 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27362 mils, 20772 mils): Symbol #PWR79 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27362 mils, 20622 mils): Vertical Wire, length 150 mils
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(27362 mils, 20172 mils): Symbol #PWR59 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(26522 mils, 20222 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(26522 mils, 20322 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27362 mils, 20172 mils): Symbol #PWR59 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(26522 mils, 20322 mils): Symbol J6 Pin 2 [GND, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(26522 mils, 20422 mils): Horizontal Wire, length 600 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(26522 mils, 20522 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(25922 mils, 20322 mils): Symbol #PWR47 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(25922 mils, 20322 mils): Symbol #PWR47 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(27362 mils, 20472 mils): Symbol C9 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27362 mils, 20322 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27362 mils, 20322 mils): Symbol C9 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(27596 mils, 29428 mils): Symbol #PWR102 [+5V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(27596 mils, 29528 mils): Symbol #PWR103 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27596 mils, 29428 mils): Symbol #PWR102 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27596 mils, 29528 mils): Symbol #PWR103 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23372 mils, 29528 mils): Symbol J8 Pin 2 [GND, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(28096 mils, 29428 mils): Symbol J9 Pin 1 [VCC, Passive, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(23622 mils, 29528 mils): Symbol J8 [IR_Sensor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23372 mils, 29428 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23372 mils, 29528 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(23372 mils, 29628 mils): Horizontal Wire, length 500 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(28346 mils, 29528 mils): Symbol J9 [IR_Sensor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(28096 mils, 29528 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(28096 mils, 29628 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(28096 mils, 29428 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(3287 mils, 3987 mils): Symbol #PWR01 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(3937 mils, 7874 mils): Symbol BT1 [Conn_2Pin]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 7924 mils): Symbol BT1 Pin 2 [Pin_2, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 7824 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 7924 mils): Horizontal Wire, length 400 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(3937 mils, 3937 mils): Symbol J1 [Conn_2Pin]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 3887 mils): Symbol J1 Pin 1 [Pin_1, Passive, Line]
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(3287 mils, 7824 mils): Symbol #PWR06 [VBAT]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(3287 mils, 7924 mils): Symbol #PWR07 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3287 mils, 7824 mils): Symbol #PWR06 Pin 1 [VBAT, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3287 mils, 7924 mils): Symbol #PWR07 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 3887 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3687 mils, 3987 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3287 mils, 3987 mils): Symbol #PWR01 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(3937 mils, 11905 mils): Symbol #PWR51 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 11905 mils): Symbol #PWR51 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 11905 mils): Symbol #PWR52 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 12055 mils): Symbol C2 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 12055 mils): Vertical Wire, length 150 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(3937 mils, 12505 mils): Symbol #PWR71 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 12355 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 12505 mils): Symbol #PWR71 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(5118 mils, 11905 mils): Symbol #PWR52 [+3V3]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(5118 mils, 12205 mils): Symbol C2 [C]
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(6299 mils, 11905 mils): Symbol #PWR53 [VBAT]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 11905 mils): Symbol #PWR53 Pin 1 [VBAT, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(5118 mils, 12505 mils): Symbol #PWR72 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 12355 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 12505 mils): Symbol #PWR72 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(3937 mils, 12205 mils): Symbol C1 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 12055 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 12055 mils): Symbol C1 Pin 1 [Passive, Line]
+[lib_symbol_mismatch]: Symbol 'C' doesn't match copy in library 'Device'
+    ; warning
+    @(6299 mils, 12205 mils): Symbol C3 [C]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(6299 mils, 12505 mils): Symbol #PWR73 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 12055 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 12055 mils): Symbol C3 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 12355 mils): Vertical Wire, length 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 12505 mils): Symbol #PWR73 Pin 1 [GND, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8805 mils, 4087 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 3987 mils): Symbol #PWR05 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 3987 mils): Symbol #PWR05 Pin 1 [GND, Power input, Line]
+[multiple_net_names]: Both +12V and GND are attached to the same items; +12V will be used in the netlist
+    ; warning
+    @(10236 mils, 14567 mils): Symbol #PWR84 Pin 1 [+12V, Power input, Line]
+    @(8305 mils, 3787 mils): Symbol #PWR03 Pin 1 [GND, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(9055 mils, 3937 mils): Symbol U2 [TP4056_Module]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 3687 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 3787 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 3887 mils): Horizontal Wire, length 500 mils
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(8305 mils, 3887 mils): Symbol #PWR04 [VBAT]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 3787 mils): Symbol #PWR03 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 3887 mils): Symbol #PWR04 Pin 1 [VBAT, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 3787 mils): Symbol #PWR03 Pin 1 [GND, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8805 mils, 4187 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 4087 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 3987 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 4187 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 3887 mils): Symbol U2 Pin 3 [BAT+, Passive, Line]
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(8661 mils, 14567 mils): Symbol #PWR83 [VBAT]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' doesn't match copy in library 'power'
+    ; warning
+    @(8661 mils, 14961 mils): Symbol #FLG04 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 14567 mils): Vertical Wire, length 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 14567 mils): Symbol #PWR83 Pin 1 [VBAT, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 14961 mils): Symbol #FLG04 Pin 1 [pwr, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(9055 mils, 12205 mils): Symbol U4 [LM2596_Module]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12005 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12205 mils): Symbol U4 Pin 3 [OUT+, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12205 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12305 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 12405 mils): Symbol #PWR17 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 12405 mils): Symbol #PWR17 Pin 1 [+3V3, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+12V' doesn't match copy in library 'power'
+    ; warning
+    @(10236 mils, 14567 mils): Symbol #PWR84 [+12V]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' doesn't match copy in library 'power'
+    ; warning
+    @(10236 mils, 14961 mils): Symbol #FLG05 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10236 mils, 14567 mils): Vertical Wire, length 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10236 mils, 14567 mils): Symbol #PWR84 Pin 1 [+12V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10236 mils, 14961 mils): Symbol #FLG05 Pin 1 [pwr, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 12305 mils): Symbol #PWR16 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 12305 mils): Symbol #PWR16 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12405 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 12105 mils): Horizontal Wire, length 500 mils
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(8305 mils, 12005 mils): Symbol #PWR13 [VBAT]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 12205 mils): Symbol #PWR15 [+3V3]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 12105 mils): Symbol #PWR14 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 12005 mils): Symbol #PWR13 Pin 1 [VBAT, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 12205 mils): Symbol #PWR15 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 12105 mils): Symbol #PWR14 Pin 1 [GND, Power input, Line]
+[duplicate_reference]: Duplicate items #PWR80
+
+    ; error
+    @(3937 mils, 14567 mils): Symbol #PWR0108 [+5V]
+    @(35433 mils, 19985 mils): Symbol #PWR80 [GND]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(3937 mils, 14567 mils): Symbol #PWR0108 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 14567 mils): Vertical Wire, length 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 14567 mils): Symbol #PWR0108 Pin 1 [+5V, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' doesn't match copy in library 'power'
+    ; warning
+    @(5512 mils, 14961 mils): Symbol #FLG02 [PWR_FLAG]
+[lib_symbol_mismatch]: Symbol '+3V3' doesn't match copy in library 'power'
+    ; warning
+    @(5512 mils, 14567 mils): Symbol #PWR81 [+3V3]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 14961 mils): Symbol #FLG02 Pin 1 [pwr, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 14567 mils): Symbol #PWR81 Pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 14567 mils): Vertical Wire, length 394 mils
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(3937 mils, 14961 mils): Symbol #FLG01 Pin 1 [pwr, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' doesn't match copy in library 'power'
+    ; warning
+    @(3937 mils, 14961 mils): Symbol #FLG01 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3937 mils, 14961 mils): Symbol #FLG01 Pin 1 [pwr, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(7087 mils, 14961 mils): Symbol #PWR82 [GND]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' doesn't match copy in library 'power'
+    ; warning
+    @(7087 mils, 14567 mils): Symbol #FLG03 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7087 mils, 14961 mils): Vertical Wire, length 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7087 mils, 14961 mils): Symbol #PWR82 Pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7087 mils, 14567 mils): Symbol #FLG03 Pin 1 [pwr, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 7674 mils): Symbol #PWR08 Pin 1 [VBAT, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 7874 mils): Symbol #PWR10 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 7774 mils): Symbol #PWR09 Pin 1 [GND, Power input, Line]
+[lib_symbol_issues]: Symbol 'VBAT' not found in symbol library 'power'
+    ; warning
+    @(8305 mils, 7674 mils): Symbol #PWR08 [VBAT]
+[lib_symbol_issues]: The current configuration does not include the symbol library ''
+    ; warning
+    @(9055 mils, 7874 mils): Symbol U3 [LM2596_Module]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 7674 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 7874 mils): Symbol #PWR10 [+5V]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 7774 mils): Symbol #PWR09 [GND]
+[lib_symbol_mismatch]: Symbol 'GND' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 7974 mils): Symbol #PWR11 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 7974 mils): Symbol #PWR11 Pin 1 [GND, Power input, Line]
+[lib_symbol_mismatch]: Symbol '+5V' doesn't match copy in library 'power'
+    ; warning
+    @(8305 mils, 8074 mils): Symbol #PWR12 [+5V]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8305 mils, 8074 mils): Symbol #PWR12 Pin 1 [+5V, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 8074 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 7774 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 8074 mils): Symbol U3 Pin 5 [EN, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 7874 mils): Horizontal Wire, length 500 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8805 mils, 7974 mils): Horizontal Wire, length 500 mils
+
+ ** ERC messages: 354  Errors 2  Warnings 352
